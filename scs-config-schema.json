@@ -387,7 +387,7 @@
     "git": {
       "$ref": "#/definitions/GitConfigTop"
     },
-    "encryptConfig": {
+    "encrypt": {
       "$ref": "#/definitions/EncryptConfig"
     },
     "vault": {
